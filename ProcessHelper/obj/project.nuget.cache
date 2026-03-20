@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hWSnzUcBPJQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MLevankov\\source\\repos\\ProcessHelper\\ProcessHelper\\ProcessHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MLevankov\\.nuget\\packages\\system.codedom\\10.0.5\\system.codedom.10.0.5.nupkg.sha512",
+    "C:\\Users\\MLevankov\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.5\\system.diagnostics.eventlog.10.0.5.nupkg.sha512",
+    "C:\\Users\\MLevankov\\.nuget\\packages\\system.management\\10.0.5\\system.management.10.0.5.nupkg.sha512",
+    "C:\\Users\\MLevankov\\.nuget\\packages\\system.serviceprocess.servicecontroller\\10.0.5\\system.serviceprocess.servicecontroller.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
